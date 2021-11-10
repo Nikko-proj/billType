@@ -1,0 +1,50 @@
+Item: 0
+Name: Empty
+Price: 0
+Quantity: 0
+
+Item: 1
+Name: Empty
+Price: 0
+Quantity: 0
+
+Item: 2
+Name: Empty
+Price: 0
+Quantity: 0
+
+Item: 3
+Name: Empty
+Price: 0
+Quantity: 0
+
+Item: 4
+Name: Empty
+Price: 0
+Quantity: 0
+
+Item: 5
+Name: Empty
+Price: 0
+Quantity: 0
+
+Item: 6
+Name: Empty
+Price: 0
+Quantity: 0
+
+Item: 7
+Name: Empty
+Price: 0
+Quantity: 0
+
+Item: 8
+Name: Empty
+Price: 0
+Quantity: 0
+
+Item: 9
+Name: Empty
+Price: 0
+Quantity: 0
+
